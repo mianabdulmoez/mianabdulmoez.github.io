@@ -1,8 +1,8 @@
 [
   {
-    "name": "Kegel Analysis",
+    "name": "Kaggel Analysis",
     "desc": "Analysis of Apple App Store data and provides insights and comparison. In a complete notebook format.",
-    "image": "kegelanalysis",
+    "image": "kaggelanalysis",
     "category": "python",
     "links": {
       "view": "https://www.kaggle.com/code/abdulmoeez1/apple-appstore-eda",
@@ -35,57 +35,57 @@
     "image": "bitcoinlive",
     "category": "python",
     "links": {
-      "view": "",
+      "view": "https://github.com/jigar-sable/React-Projects",
       "code": "https://github.com/jigar-sable/React-Projects"
     }
   },
   {
     "name": "Convolutional Neural Network",
-    "desc": "",
+    "desc": "Notebook which contain Model of CNN (Convolutional Neural Network) using one of the famous dataset.",
     "image": "cnn",
     "category": "python",
     "links": {
-      "view": "",
+      "view": "https://github.com/mianabdulmoez/CNN.git",
       "code": "https://github.com/mianabdulmoez/CNN.git"
     }
   },
   {
     "name": "Artificial Neural Network",
-    "desc": "",
+    "desc": "Notebook which contain Model of ANN (Artificial Neural Network) using one of the famous dataset.",
     "image": "ann",
     "category": "python",
     "links": {
-      "view": "",
+      "view": "https://github.com/mianabdulmoez/ANN.git",
       "code": "https://github.com/mianabdulmoez/ANN.git"
     }
   },
   {
     "name": "Regression in Deep Learning",
-    "desc": "",
+    "desc": "Notebook which contains regression in deep learning using one of the famous dataset.",
     "image": "regressionindl",
     "category": "python",
     "links": {
-      "view": "",
+      "view": "https://github.com/mianabdulmoez/regression_in_DL.git",
       "code": "https://github.com/mianabdulmoez/regression_in_DL.git"
     }
   },
   {
     "name": "EDA & Machine Learning",
-    "desc": "",
+    "desc": "A webapp which contains EDA and Machine Learning projects.",
     "image": "edaandml",
     "category": "python",
     "links": {
-      "view": "",
+      "view": "https://github.com/mianabdulmoez/EDA-and-ML.git",
       "code": "https://github.com/mianabdulmoez/EDA-and-ML.git"
     }
   },
   {
     "name": "Sentiment Analysis",
     "desc": "According to the given text, it will predict the sentiment of the text.",
-    "image": "edaandml",
+    "image": "sentimentanalysis",
     "category": "python",
     "links": {
-      "view": "",
+      "view": "https://github.com/mianabdulmoez/Sentiment_Analysis.git",
       "code": "https://github.com/mianabdulmoez/Sentiment_Analysis.git"
     }
   },
@@ -95,17 +95,17 @@
     "image": "askthedocument",
     "category": "python",
     "links": {
-      "view": "",
+      "view": "https://github.com/mianabdulmoez/Ask_the_Doc_App.git",
       "code": "https://github.com/mianabdulmoez/Ask_the_Doc_App.git"
     }
   },
   {
     "name": "BMI Calculator",
     "desc": "A calculator which calculates the BMI of the person according to the given height and weight.",
-    "image": "bmicalculator",
+    "image": "bmi",
     "category": "python",
     "links": {
-      "view": "",
+      "view": "https://github.com/mianabdulmoez/BMI_calculator.git",
       "code": "https://github.com/mianabdulmoez/BMI_calculator.git"
     }
   }
